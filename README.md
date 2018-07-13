@@ -2,13 +2,15 @@
 
 This is the fourth project in the Front End Web Development Nanodegeree by Udacity.
 
-
 ## Description
 
-A site was already created and downloaded for use.  Commented out in the javascript files were tests to be created for Jasmine to analyze.  Detailed instructions are in the next section.
+A site was already created and downloaded for use.  Commented out in the javascript files were tests to be created for Jasmine to analyze.  Detailed instructions are listed below.
 
+## Viewing the app
 
-## Instructions for the project
+All files are located in the "Project-4---Feed-Reader" directory.  Copy all files & folders to your local machine, and open the "index.html" file to open the app.  The jasmine tests will be shown at the bottom of the page.
+
+## Included tests for the project.
 
 Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
 
