@@ -6,9 +6,9 @@ This is the fourth project in the Front End Web Development Nanodegeree by Udaci
 
 A site was already created and downloaded for use.  Commented out in the javascript files were tests to be created for Jasmine to analyze.  Detailed instructions are listed below.
 
-## Viewing the app
+## Viewing & using the app
 
-All files are located in the "Project-4---Feed-Reader" directory.  Copy all files & folders to your local machine, and open the "index.html" file to open the app.  The jasmine tests will be shown at the bottom of the page.
+All files are located in the "Project-4---Feed-Reader" directory.  Copy all files & folders to your local machine, and open the "index.html" file to open the app.  The jasmine tests will be shown at the bottom of the page.  After modification to any files associated with the project, the jasmine tests will give you a pass or fail if the modifcations broke what we are testing for in the app.
 
 ## Included tests for the project.
 
